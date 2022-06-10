@@ -10,3 +10,16 @@ Startup :
 
 ![image](https://user-images.githubusercontent.com/38507456/173034040-b516650b-90d0-4a5b-b34a-89805ed89664.png)
 
+-- 
+
+Une fois l'installation terminer : 
+Se rendre : http://localhost:8050/
+
+admin : http://localhost:8050/admin
+supprimer les fichiers ou répertoires suivant : 
+  - Pour des raisons de sécurité, vous ne pouvez pas vous connecter tant que vous n'avez pas :
+  - supprimé le dossier /install
+
+admin : 
+- demo@gmail.com 
+- demodemo
