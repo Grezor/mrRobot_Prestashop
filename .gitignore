@@ -1,5 +1,5 @@
 .docker
-presta/
+presta/*
 
 # Cache, temp and personal files
 
